@@ -1,0 +1,14 @@
+layout_spectrum: 0.5876897
+typography_spectrum: 0.5826307
+color:
+  saturation: 0.5269815
+  lightness: 0.5421585
+  brandStrength: 0.959397
+  brandColors:
+    - '#D75342'
+    - '#D9DE92'
+    - '#E08864'
+    - '#27160D'
+    - '#8E4E5E'
+  rhythmicContrast: 0.579258
+name: Plans
